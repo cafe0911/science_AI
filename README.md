@@ -2,7 +2,8 @@
 
 ---
 
-![쓰레기 분류 AI](https://github.com/YourRepo/YourProjectName/logo.png)
+![image](https://github.com/user-attachments/assets/38e707b4-44f5-47c1-a486-2456a9d4b623)
+
 
 ---
 
